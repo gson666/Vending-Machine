@@ -1,0 +1,100 @@
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\obj\Debug\net6.0\virualproject.csproj.AssemblyReference.cache
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\obj\Debug\net6.0\virualproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\obj\Debug\net6.0\virualproject.AssemblyInfoInputs.cache
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\obj\Debug\net6.0\virualproject.AssemblyInfo.cs
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\obj\Debug\net6.0\virualproject.csproj.CoreCompileInputs.cache
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\bin\Debug\net6.0\virualproject.exe
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\bin\Debug\net6.0\virualproject.deps.json
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\bin\Debug\net6.0\virualproject.runtimeconfig.json
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\bin\Debug\net6.0\virualproject.dll
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\bin\Debug\net6.0\virualproject.pdb
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\obj\Debug\net6.0\virualproject.dll
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\obj\Debug\net6.0\refint\virualproject.dll
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\obj\Debug\net6.0\virualproject.pdb
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\obj\Debug\net6.0\virualproject.genruntimeconfig.cache
+C:\Users\BAR'S COMPUTER\source\repos\virualproject\obj\Debug\net6.0\ref\virualproject.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\bin\Debug\net6.0\virualproject.exe
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\bin\Debug\net6.0\virualproject.deps.json
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\bin\Debug\net6.0\virualproject.runtimeconfig.json
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\bin\Debug\net6.0\virualproject.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\bin\Debug\net6.0\virualproject.pdb
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\obj\Debug\net6.0\virualproject.csproj.AssemblyReference.cache
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\obj\Debug\net6.0\virualproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\obj\Debug\net6.0\virualproject.AssemblyInfoInputs.cache
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\obj\Debug\net6.0\virualproject.AssemblyInfo.cs
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\obj\Debug\net6.0\virualproject.csproj.CoreCompileInputs.cache
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\obj\Debug\net6.0\virualproject.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\obj\Debug\net6.0\refint\virualproject.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\obj\Debug\net6.0\virualproject.pdb
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\obj\Debug\net6.0\virualproject.genruntimeconfig.cache
+C:\Users\BAR'S COMPUTER\Desktop\sela files\virualproject\obj\Debug\net6.0\ref\virualproject.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\virualproject.exe
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\virualproject.deps.json
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\virualproject.runtimeconfig.json
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\virualproject.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\virualproject.pdb
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\obj\Debug\net6.0\virualproject.csproj.AssemblyReference.cache
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\obj\Debug\net6.0\virualproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\obj\Debug\net6.0\virualproject.AssemblyInfoInputs.cache
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\obj\Debug\net6.0\virualproject.AssemblyInfo.cs
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\obj\Debug\net6.0\virualproject.csproj.CoreCompileInputs.cache
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\obj\Debug\net6.0\virualproject.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\obj\Debug\net6.0\refint\virualproject.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\obj\Debug\net6.0\virualproject.pdb
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\obj\Debug\net6.0\virualproject.genruntimeconfig.cache
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\obj\Debug\net6.0\ref\virualproject.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\DnsClient.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\Snappier.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lidor yona\Downloads\vendingmachine\vendingmachine\obj\Debug\net6.0\virualproject.csproj.CopyComplete
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\virualproject.exe
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\virualproject.deps.json
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\virualproject.runtimeconfig.json
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\virualproject.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\virualproject.pdb
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\DnsClient.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\Snappier.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ofek7\Downloads\vending\vending\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ofek7\Downloads\vending\vending\obj\Debug\net6.0\virualproject.csproj.AssemblyReference.cache
+C:\Users\ofek7\Downloads\vending\vending\obj\Debug\net6.0\virualproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofek7\Downloads\vending\vending\obj\Debug\net6.0\virualproject.AssemblyInfoInputs.cache
+C:\Users\ofek7\Downloads\vending\vending\obj\Debug\net6.0\virualproject.AssemblyInfo.cs
+C:\Users\ofek7\Downloads\vending\vending\obj\Debug\net6.0\virualproject.csproj.CoreCompileInputs.cache
+C:\Users\ofek7\Downloads\vending\vending\obj\Debug\net6.0\virualproject.csproj.CopyComplete
+C:\Users\ofek7\Downloads\vending\vending\obj\Debug\net6.0\virualproject.dll
+C:\Users\ofek7\Downloads\vending\vending\obj\Debug\net6.0\refint\virualproject.dll
+C:\Users\ofek7\Downloads\vending\vending\obj\Debug\net6.0\virualproject.pdb
+C:\Users\ofek7\Downloads\vending\vending\obj\Debug\net6.0\virualproject.genruntimeconfig.cache
+C:\Users\ofek7\Downloads\vending\vending\obj\Debug\net6.0\ref\virualproject.dll
